@@ -5,11 +5,14 @@ npm install
 npm start
 ```
 
+Head over to https://vitejs.dev/ to learn more about configuring vite
+
 <h1>The Challenge</h1>
+
+This course challenge saw me having to use everything I had learned about `import`, `export`, `.map()`, `.join()`, Object Destructuring, `.reduce()` and Default Parameters and render out the HTML that would be useful for someone viewing an estate agents website. 
 
 
 ```
-
 SUPER CHALLENGE 💪
 
 Render out a card for each of the properties in the propertyForSaleArr array (in the 'properties' folder). Each card should have an image, a property location, a price, a comment and the TOTAL property size in square metres (each object has an array with the size in square metres of the individual rooms).
@@ -45,7 +48,7 @@ document.getElementById('container').innerHTML = getPropertyHtml()
 
 
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
