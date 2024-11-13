@@ -9,7 +9,7 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 
 <h1>The Challenge</h1>
 
-This course challenge saw me having to use everything I had learned about `import`, `export`, `.map()`, `.join()`, Object Destructuring, `.reduce()` and Default Parameters and render out the HTML that would be useful for someone viewing an estate agents website. 
+This course challenge saw me having to use everything I had learned about `import`, `export`, `.map()`, `.join()`, Object Destructuring, `.reduce()` and Default Parameters to render out HTML that would be useful for someone viewing an estate agents website. 
 
 
 ```
